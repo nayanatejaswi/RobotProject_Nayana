@@ -21,7 +21,10 @@ MySecondTest
 MyThirdTest
     Set Tags    Regression
     Remove Tags    Regression
-    Log    I am inside my test        
+    Log    I am inside my test  
+    
+MyFourthTest
+    Log    Iam in fourth test          
     
 # FirstSeleniumTest
     # Open Browser    http://google.com    chrome
